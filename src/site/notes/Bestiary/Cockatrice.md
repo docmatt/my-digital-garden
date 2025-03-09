@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bestiary/cockatrice/"}
+{"dg-publish":true,"permalink":"/bestiary/cockatrice/","noteIcon":""}
 ---
 
 > [!example] **Cockatrice**
