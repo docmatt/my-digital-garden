@@ -7,9 +7,6 @@
 > - First days/week of Ambyrmont, AC 999. 
 > - **Weather**: Clear, dry, cool (early autumn)
 
-> [!info]- **Active Character Sheet**
-> ![[Fensbit Fapplebit - Old-School Essentials - Purist Character Sheet v1-2 - DAC.pdf]]
-
 > [!tldr]- **Session Notes**
 > - Went back to the wine merchant's shop, to enter and explore it, and meet with the wine merchant on our terms rather than his
 > - Entered the shop by forcing our way in through the front door - slept or knocked out the guard on the front door to do so.
