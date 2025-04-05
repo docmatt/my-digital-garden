@@ -1,73 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/spells/magical-spells/1st-level-magical-spells/charm-person/","tags":["spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/spells/magical-spells/1st-level-magical-spells/charm-person/","tags":["magical-spell","level-1"],"noteIcon":""}
 ---
 
 > [!example] **Charm Person**
-> > [!tip] *Magical Spell*
+> > [!tip] *1st Level Magical Spell*
 > 
 > > [!summary]- **Quick Details**
-> > **Level**: 1
+> > **Duration**: One or more days (see below)
 > > **Range**: 120'
-> > **Duration**: See below
-> > **Effect**: One living person (see below)
 >  
->> [!info]- **Description / Notes**
->> This spell will only affect humans, demihumans, and certain other creatures. The victim is allowed a saving throw vs. spells. If the saving throw is successful, the spell has no effect. If it fails, the victim will believe that the spellcaster is its "best friend," and will try to defend the spellcaster against any threat, whether real or imagined. The victim is *charmed*.
->>
->> As a general rule, the spell only affects creatures which look similar to humans in various ways - humans, demihumans, certain giant-class creatures, etc. It will not affect animals, magical creatures (such as living statues), undead monsters, or human-like creatures larger than ogres.
->> 
->> If the spellcaster can speak a language that the charmed victim understands, the spellcaster may give orders to the victim. These orders should sound like suggestions, as if "just between friends." The *charmed* victim will usually obey, but the victim may resist orders that are contrary to the victim's nature (alignment and habits) - he doesn't need to roll anything to resist. A victim will refuse to obey if ordered to kill itself.
->> 
->> A *charm* may last for months. The victim may make another saving throw every so often, depending on its Intelligence score.
->> 
->> *Charm Person Duration*
->> 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-templates/charm-person-duration/#simple-cp-duration" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-| *If the Victim Has:*        | *They Save Every:* |
-| --------------------------- | ------------------ |
-| High Intelligence (13-18)   | 1 day              |
-| Average Intelligence (9-12) | 1 week             |
-| Low Intelligence (3-8)      | 1 month            |
-
-</div></div>
-
->> 
->> A more complex system for determining the duration of a *charm* spell appears in ***RC*** *Chapter 13, on page 144* and is reprinted here:
->> 
->> *Duration of Charm Table*
->> *(Frequency of New Saving Throws)*>> 
->> 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/z-templates/charm-person-duration/#complex-cp-duration" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-| Intelligence | Save after |
-| ------------ | ---------- |
-| 0            | 120 days   |
-| 1            | 90 days    |
-| 2            | 60 days    |
-| 3            | 45 days    |
-| 4-5          | 30 days    |
-| 6-8          | 15 days    |
-| 9-12         | 7 days     |
-| 13-15        | 3 days     |
-| 16-17        | 24 hours   |
-| 18           | 8 hours    |
-| 19           | 3 hours    |
-| 20           | 1 hour     |
-| 21+          | 1 turn     |
-
-</div></div>
-
->> 
->> A victim who is given conflicting orders and impressions by his old adventuring friends and his new "best friend" should react as any person would in real life: with confusion. He will not automatically assume that one party or the other is lying ... even if the player wants him to.
->> 
->> The *charm* is automatically broken if the spellcaster attacks the victim, whether by spell or by weapon. The victim will fight normally if attacked by the spellcaster's allies. 
+> > [!info]- **Description / Notes**
+> > A single human, demihuman, or human-like monster (see **Persons must save versus spells**) or be charmed, as follows:
+> >
+> > - **Friendship:** The subject regards the caster as a close friend and will come to the caster’s defense.
+> > - **Commands:** If they share a language, the caster may give the charmed creature commands, which they will obey.
+> > - **Subject’s nature:** The subject may resist commands that contradict their habits or alignment.
+> > - **Suicidal commands:** Are always refused.
+> > 
+> > **Restrictions:** Undead and human-like monsters of greater than 4+1 HD (see _**Hit Point Modifiers**_) are not affected.
+> > **Duration:** The charm lasts indefinitely, but the subject is allowed to make further **saves versus spells** at intervals, depending on their INT score. If one of these saves succeeds, the spell ends.
+> > 
+> > - **INT 3–8:** New save once every month.
+> > - **INT 9–12:** New save each week.
+> > - **INT 13–18:** New save once every day.
 >
-> > [!check] **Cost / Gold / XP Value** *for spell research rules GAZ3 p64* 
+> > [!check] **Cost / Gold / XP Value** 
 
-> [!quote] *RC 45*
+> [!quote] *OSE Tome 88*
 

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/spells/magical-spells/1st-level-magical-spells/analyze/","tags":["spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/spells/magical-spells/1st-level-magical-spells/analyze/","tags":["magical-spell","level-1"],"noteIcon":""}
 ---
 
 > [!example] **Analyze**
-> > [!tip] *Magical Spell*
+> > [!tip] *1st Level Magical Spell*
 > 
 > > [!summary]- **Quick Details**
 > > **Level**: 1
