@@ -10,28 +10,6 @@
 > [!info]- **Active Character Sheet**
 > ![[Fensbit Fapplebit - Old-School Essentials - Purist Character Sheet v1-2 - DAC.pdf]]
 
-> [!question]- **Followup Ideas**
-> 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/quick-note/to-do/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-# Followup Ideas
-
-</div>
-
-
-
-- [x] Talk with [[PCs/The Other Guys/Larisa\|Larisa]] about what [[NPCs/Antagonists/Belrag\|Belrag]] / [[NPCs/Antagonists/Bargle\|Bargle]] was up to in [[Thyatis City\|Thyatis]] - [ ] ❕ Clarify with [[PCs/The Other Guys/Farouk\|Farouk]] what Bargle did in [[Locations/Locations\|Yalari]]
-- [ ] The [[Factions/Scarlet Brotherhood\|purple robed guys]] - these are [[Factions/The Veiled Society\|Veiled Society]] members (I think)
-- [x] Work on the [[_Quick Note/Enflaminator\|Enflaminator prototype Mk 2]] for [[PCs/The Other Guys/Everidge\|Everidge]]
-	- [ ] see below
-
-
-
-</div></div>
-
-
 > [!tldr]- **Session Notes**
 > - Went back to the wine merchant's shop, to enter and explore it, and meet with the wine merchant on our terms rather than his
 > - Entered the shop by forcing our way in through the front door - slept or knocked out the guard on the front door to do so.
