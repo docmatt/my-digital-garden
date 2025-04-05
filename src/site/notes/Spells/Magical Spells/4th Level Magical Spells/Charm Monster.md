@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spells/magical-spells/4th-level-magical-spells/charm-monster/","tags":["spell"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/spells/magical-spells/4th-level-magical-spells/charm-monster/","noteIcon":""}
 ---
 
 > [!example] **Charm Monster**
